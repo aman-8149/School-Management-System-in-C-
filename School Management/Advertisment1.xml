@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>resources/banner2.jpg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>resources/banner3.jpg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>resources/banner4.jpg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+  </Ad>
+</Advertisements>

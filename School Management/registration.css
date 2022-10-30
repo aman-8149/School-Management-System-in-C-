@@ -1,0 +1,18 @@
+﻿*
+{
+    margin:0;
+    padding:0;
+}
+
+body {
+}
+.center
+{
+    display:flex;
+    align-item: center;
+    justify-content:center;
+}
+tr,td
+{
+    padding:20px;    
+}
